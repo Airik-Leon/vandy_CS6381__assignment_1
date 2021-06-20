@@ -1,0 +1,19 @@
+{
+  "name": "zmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pubsub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.4",
+    "pkg-config": "^1.1.1",
+    "portastic": "^1.0.1",
+    "portfinder": "^1.0.28",
+    "uuid": "^8.3.2",
+    "zeromq": "^5.2.8"
+  }
+}
